@@ -6,7 +6,7 @@
   --success-color: #000000;
   --danger-color: #000000;
   --url-color: var(--main-color);
-  --background-image: url('https://i.pinimg.com/736x/3f/61/36/3f613655fb79368a3399d5171d8d9958.jpg');
+  --background-image: url('https://i.pinimg.com/736x/aa/b7/eb/aab7ebe95c8d90ca2dff3e1e61917c57.jpg');
   --background-shading: 100%;
   --background-position: center;
   --background-size: cover;
@@ -19,7 +19,7 @@
   --background-invert: 0%;
   --background-blur: 0px;
   --background-overlay: rgba(0,0,0,0.6);
-  --user-popout-image: url('https://i.pinimg.com/736x/3f/61/36/3f613655fb79368a3399d5171d8d9958.jpg');
+  --user-popout-image: url('https://i.pinimg.com/736x/aa/b7/eb/aab7ebe95c8d90ca2dff3e1e61917c57.jpg');
   --user-popout-position: center;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
@@ -30,7 +30,7 @@
   --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
   --user-popout-blur: 3px;
-  --user-modal-image: url('https://i.pinimg.com/736x/3f/61/36/3f613655fb79368a3399d5171d8d9958.jpg');
+  --user-modal-image: url('https://i.pinimg.com/736x/aa/b7/eb/aab7ebe95c8d90ca2dff3e1e61917c57.jpg');
   --user-modal-position: center;
   --user-modal-size: cover;
   --user-modal-repeat: no-repeat;
@@ -41,7 +41,7 @@
   --user-modal-grayscale: 0%;
   --user-modal-invert: 0%;
   --user-modal-blur: 3px;
-  --home-icon: url('https://i.pinimg.com/736x/3f/61/36/3f613655fb79368a3399d5171d8d9958.jpg');
+  --home-icon: url('https://i.pinimg.com/736x/aa/b7/eb/aab7ebe95c8d90ca2dff3e1e61917c57.jpg');
   --home-position: center;
   --home-size: 40px;
   --channel-unread: var(--main-color);
